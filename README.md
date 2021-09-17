@@ -23,7 +23,7 @@ Hi, I'm [Joel Bello](https://joelnbl.netlify.app/), a passionate self-taught Ful
 ```javascript
 const JoelNbl = {
   code: [HTML, CSS, JavaScript, TypeScript, Dart, Python, Angular, React, Vue.js, Flutter, React Native, Firebase, Contentful, Node.js, Nest.js, PHP, Laravel, MySQL, C, C++],
-  testing: [Jest, Testing Library, Cypress.js]
+  testing: [Jest, Testing Library, Cypress.js],
   cloud: [Azure],
   tools: [Git, Asana, Jira, Confluence, Slack, BitBucket, VSCode, Postman],
   SO: [Mac OS, Linux, Windows],
