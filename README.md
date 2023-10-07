@@ -7,5 +7,5 @@ Hello, I'm Joel Bello.
 + living in Caracas.
 - 25 years old
 ! fullstack developer based in frontend
-# 📖 computer science
+# 📖 i turn caffeine into code.
 ```
