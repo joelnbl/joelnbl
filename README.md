@@ -3,7 +3,6 @@ Hello, I'm Joel Bello.
 
 @@eternal programming student.@@
 + living in Caracas.
-- 26 years old
 ! fullstack developer based in frontend
 # 📖 i turn caffeine into code.
 ```
