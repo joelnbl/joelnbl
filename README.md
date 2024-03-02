@@ -30,7 +30,7 @@ I'm a software developer based on frontend, that loves to learn. I currently wor
 <details><summary><b>Sometimes i like to write articles.</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [What's a Web Server](https://dev.to/joelnbl/whats-a-web-server-47lb))
+- [What's a Web Server](https://dev.to/joelnbl/whats-a-web-server-47lb)
 - [Named Arguments in JavaScript: Cleaner Code with Destructuring](https://dev.to/vetswhocode/vetswhocode-extension-pack-30bh)
 <!-- BLOG-POST-LIST:END -->
 
@@ -42,11 +42,11 @@ I'm a software developer based on frontend, that loves to learn. I currently wor
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=joelnbl&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="GitHub stats" /></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=joelnbl&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="Adrian's GitHub streak stats" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=joelnbl&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="Joel's GitHub streak stats" /></p>
 
-<!-- <p align="center"><img src="https://github-readme-stats-flax-seven-13.vercel.app?user=joelnbl&theme=react&border_radius=5&fire=FF0000&ring=FF0000&currStreakNum=FF0000" alt="Adrian's GitHub streak stats" /></p> -->
+<!-- <p align="center"><img src="https://github-readme-stats-flax-seven-13.vercel.app?user=joelnbl&theme=react&border_radius=5&fire=FF0000&ring=FF0000&currStreakNum=FF0000" alt="Joel's GitHub streak stats" /></p> -->
 
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=joelnbl&theme=react&border_radius=5&fire=FF0000&ring=FF0000&currStreakNum=FF0000" alt="Adrian's GitHub streak stats" /></p> -->
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=joelnbl&theme=react&border_radius=5&fire=FF0000&ring=FF0000&currStreakNum=FF0000" alt="Joel's GitHub streak stats" /></p> -->
 
 </details>
 
@@ -70,7 +70,7 @@ I'm a software developer based on frontend, that loves to learn. I currently wor
 <details><summary><b>Languages and Tools I'm learning</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bun,vim,go,kotlin,swift,django,kubernetes&perline=7" />
+  <img src="https://skillicons.dev/icons?i=vim,go,flutter&perline=7" />
 </p>
 <br><br>
 
