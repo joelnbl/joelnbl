@@ -23,7 +23,7 @@
 
 <details><summary><b>Software Developer</b></summary>
 
-I'm a software developer based on frontend, that loves to learn. I currently work as FS Developer at Tecabot, where I help working with Next.js and helps as a backend to implement features and debugging working with Ruby on Rails.
+I'm a software developer based on frontend, that loves to learn.
 
 </details>
 
@@ -70,7 +70,7 @@ I'm a software developer based on frontend, that loves to learn. I currently wor
 <details><summary><b>Languages and Tools I'm learning</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vim,go,flutter&perline=7" />
+  <img src="https://skillicons.dev/icons?i=django,flutter&perline=7" />
 </p>
 <br><br>
 
