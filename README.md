@@ -66,7 +66,7 @@ I'm a software developer based on frontend, that loves to learn.
 <details><summary><b>Languages and Tools I'm learning</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,go,rust&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,go&perline=7" />
 </p>
 <br><br>
 
