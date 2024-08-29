@@ -57,7 +57,7 @@ I'm a software developer based on frontend, that loves to learn.
 <details><summary><b>Languages and Tools I've Used</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,ruby,rails,js,npm,yarn,nodejs,nestjs,ts,python,react,nextjs,vue,bootstrap,tailwind,styledcomponents,sass,styledcomponents,git,github,gitlab,vercel,vscode,aws,azure,cypress,jest,docker,jenkins,postgres,postman,wordpress,figma,xd,sequelize,figma,&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,ruby,rails,js,npm,yarn,nodejs,nestjs,ts,python,react,nextjs,vue,bootstrap,tailwind,styledcomponents,sass,styledcomponents,git,github,gitlab,vercel,vscode,aws,azure,cypress,jest,docker,jenkins,postgres,postman,wordpress,figma,xd,sequelize,&perline=7" />
 </p>
 <br><br>
 
