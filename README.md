@@ -9,12 +9,12 @@ I've been developing software for 5 years, I do backend and frontend but i love 
 * 🌍  I'm based in Galicia
 * 🖥️  See my portfolio at [Portafolio](http://joelnbl.vercel.app/)
 * ✉️  You can contact me at [joelumc@gmail.com](mailto:joelumc@gmail.com)
-* 🧠  I'm learning Go
+* 🧠  I'm learning Python and Go
 * ⚡  I love coffe
 
 <a href="https://www.github.com/joelnbl" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/joelnbl?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/joelnbl" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/joelnbl?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/github/followers/joelnbl?logo=github&style=for-the-badge&color=3382ed&labelColor=27272a" /></a><a href="https://www.x.com/joelnbl" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/joelnbl?logo=twitter&style=for-the-badge&color=3382ed&labelColor=27272a"
 /></a>
 
 ### Skills
@@ -31,9 +31,7 @@ src="https://img.shields.io/twitter/follow/joelnbl?logo=twitter&style=for-the-ba
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/joelnbl"><img src="https://github-readme-stats.vercel.app/api?username=joelnbl&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="joelnbl's GitHub stats" /></a>
+<a href="https://github.com/joelnbl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelnbl&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
