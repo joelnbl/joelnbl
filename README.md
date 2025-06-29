@@ -105,6 +105,6 @@ I'm a dedicated software developer driven by a passion for crafting efficient, s
 
 ### GitHub Stats
 
-<a href="http://www.github.com/joelnbl">
-<img src="https://github-readme-stats.vercel.app/api?username=joelnbl&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="joelnbl's GitHub stats" />
-</a>
+![joelnbl's Stats](https://github-readme-stats.vercel.app/api?username=joelnbl&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![joelnbl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joelnbl&theme=tokyonight&hide_border=true)
+![joelnbl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joelnbl&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
